@@ -21,7 +21,7 @@
 }
 
 #logo{
-    background-image: url(images/AmazonClonePics/amazon_logo.png);
+    background-image: url(amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 110px;
@@ -160,7 +160,7 @@
 
 .heroSec{
     height: 350px;
-    background-image: url(images/AmazonClonePics/hero_image.jpg);
+    background-image: url(hero_image.jpg);
     background-size: cover;
     display: flex;
     align-items: end;
@@ -272,7 +272,7 @@
 }
 
 .flogo{
-    background-image: url(images/AmazonClonePics/amazon_logo.png);
+    background-image: url(amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 110px;
